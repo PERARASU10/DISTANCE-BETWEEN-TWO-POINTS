@@ -16,6 +16,7 @@ Step 3:
 
 Substitute the values in the distance formula
 
+![formula](https://user-images.githubusercontent.com/118348589/226175035-ee4a2572-473f-4032-84fb-1d37053fbb79.png)
 
 
 Step 4:
@@ -45,3 +46,6 @@ print("{:.2f}".format(distance))
 
 
 ### RESULT:
+
+Thus the distance of the two points is sucessfully executed and displayed.
+
